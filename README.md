@@ -1,17 +1,15 @@
 
 ### Olá, sou a Keila Ribeiro 👋
 
-<div align="center">
 <p align="justify">👩🏾‍🎓Estou cursando segundo semestre de graduação em <strong> Desenvolvimento Web </strong>.</p>
 <p align="justify">✍🏾Aproveitando os cursos gratuitos para aprender mais sobre <strong> HTML5, CSS3</strong> e <strong>ES </strong></p>
 <p align="justify"> ❣️Apaixonada por aplicação web focada na parte visual da aplicação, <strong>Front-End</strong>.</p>
 <p align="justify">📖 Em busca de aperfeiçoamento e conhecimento em outras linguagens e áreas da programação.</p>
 <p align="justify">👩🏾‍💻 Disponível para trabalho que não exija experiência na área de programação, como <i> estágiaria</i> ou <i>júnior</i>.</p>
- <div>
 
  ##
 
- <div align="center">
+ <div>
   <a href="https://github.com/keilaribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keilaribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keilaribeiro&layout=compact&langs_count=7&theme=dracula"/>
